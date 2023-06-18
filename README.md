@@ -33,7 +33,7 @@ To run this API, you will need the following installed on your system:
 
 6. Update the database configuration settings in the .env file with your database credentials:
 
-       DB_DATABASE=db_test
+       DB_DATABASE=dwsit_db
        DB_USERNAME=root
        DB_PASSWORD=
 
